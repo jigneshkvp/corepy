@@ -1,0 +1,2 @@
+# corepy
+Learning python
